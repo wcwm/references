@@ -1,0 +1,8 @@
+asgiref==3.5.2
+certifi==2022.5.18.1
+Django==4.0.5
+numpy==1.22.4
+PyMySQL==1.0.2
+sqlparse==0.4.2
+tzdata==2022.1
+wincertstore==0.2
